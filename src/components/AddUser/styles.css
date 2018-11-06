@@ -1,0 +1,10 @@
+.allusers {
+  color: darkred;
+  font-weight: bold;
+  font-family: cursive;
+  height: 300px; 
+  width: 550px;
+  white-space: pre-wrap;
+  overflow-y: auto;
+  margin-left: 120px;
+}
